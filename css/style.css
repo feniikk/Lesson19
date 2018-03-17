@@ -1,15 +1,31 @@
-.block{
-	height: 200px;
+.exp{
+	background: purple;
+	min-height: 50vh;
+	padding-top:150px;
+	padding-bottom:150px;
 }
 
-.red{
-	background-color: red;
+.white-text{
+	color: white;
 }
 
-.blue{
-	background-color: blue;
+.line{
+	width: 100px;
 }
 
-.container{
-	margin-bottom: 40px;
+h2{
+	text-transform: uppercase;
+}
+
+img{
+	max-width: 100%;
+}
+
+.teamWrapp{
+	border: 1px solid white;
+}
+
+.textWrapp{
+	padding-top: 10px;
+	padding-bottom:10px;
 }
