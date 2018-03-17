@@ -1,0 +1,15 @@
+.block{
+	height: 200px;
+}
+
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.container{
+	margin-bottom: 40px;
+}
